@@ -42,7 +42,7 @@ ul {
 li, h3 {
   list-style:none;
 }
-input,button{
+input,button {
   outline:none;
 }
 button {
@@ -144,6 +144,6 @@ h3,
   width:224px
 }
 
-.task-item.edit-mode .task-label{
+.task-item.edit-mode .task-label {
   display:none;
 }
